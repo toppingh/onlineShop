@@ -88,10 +88,6 @@ Tool : <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&l
 
 <br>
 
-![image](https://github.com/toppingh/onlineShop/assets/98543258/15b46550-03e9-4c33-9e80-3a80caff8318)
-
-<br>
-
 --------------------------------------------
 
 <br>
