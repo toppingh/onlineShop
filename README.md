@@ -29,4 +29,20 @@ Tool : <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&l
 
 <br>
 
-<h2>3. 실행 화면</h2>
+<h2>3. 실행 화면</h2><br>
+<h4>메인 화면</h4>
+<b>shop/templates/shop/list.html</b><br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/b2fb2734-92ea-4f52-8bfb-e471bdbae017)
+
+<br><br>
+<h4>상세 화면</h4>
+<b>shop/templates/shop/detail.html</b><br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/86cad61a-0d51-42c3-bac1-8fe5ad48ffb7)
+
+<br><br>
+<h4>장바구니 화면</h4>
+<b>cart앱</b><br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/6a213bb2-2213-41e2-a7a8-327273c429e6)
