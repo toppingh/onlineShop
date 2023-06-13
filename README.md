@@ -35,14 +35,69 @@ Tool : <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&l
 
 ![image](https://github.com/toppingh/onlineShop/assets/98543258/b2fb2734-92ea-4f52-8bfb-e471bdbae017)
 
-<br><br>
+<br>
+
+---------------------------------------
+
+<br>
 <h4>상세 화면</h4>
 <b>shop/templates/shop/detail.html</b><br>
 
 ![image](https://github.com/toppingh/onlineShop/assets/98543258/86cad61a-0d51-42c3-bac1-8fe5ad48ffb7)
 
-<br><br>
+<br>
+
+------------------------------------------------------
+
+<br>
 <h4>장바구니 화면</h4>
-<b>cart앱</b><br>
+<b>cart 앱</b><br>
 
 ![image](https://github.com/toppingh/onlineShop/assets/98543258/6a213bb2-2213-41e2-a7a8-327273c429e6)
+
+<br>
+
+--------------------------------------------
+
+<br>
+<h4>쿠폰 화면</h4>
+<b>coupon 앱</b><br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/5e48ef89-53d8-4ba8-8405-34cbc0eb5c31)
+
+<br>
+
+------------------------------------------
+
+<br>
+<h4>주문 화면</h4>
+<b>order 앱</b><br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/846e58c2-fb47-4168-bd49-c69d99edf897)
+
+<br>
+
+--------------------------------------------
+
+<br>
+<h4>결제 진행 화면</h4><br>
+<b>order/templates/order/create.html</b><br>
+<b>order/templates/order/created.html</b><br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/a7020735-e623-49dc-b487-d9ae309c9421)
+
+<br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/15b46550-03e9-4c33-9e80-3a80caff8318)
+
+<br>
+
+--------------------------------------------
+
+<br>
+<h4>관리자 화면</h4><br>
+<b>static_files/admin</b><br>
+
+![image](https://github.com/toppingh/onlineShop/assets/98543258/8e8a0c74-f981-48ba-856b-5de8d570ccf3)
+
+
